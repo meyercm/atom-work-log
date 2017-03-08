@@ -1,10 +1,9 @@
 {
   "name": "atom-work-log",
   "main": "./lib/atom-work-log",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple work logging based on file save activity in Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {},
   "repository": "https://github.com/meyercm/atom-work-log",
   "license": "MIT",
