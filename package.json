@@ -2,11 +2,11 @@
   "name": "atom-work-log",
   "main": "./lib/atom-work-log",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Simple work logging based on file save activity in Atom",
   "keywords": [
   ],
   "activationCommands": {},
-  "repository": "https://github.com/atom/atom-work-log",
+  "repository": "https://github.com/meyercm/atom-work-log",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
