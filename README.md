@@ -25,9 +25,9 @@ README.
 
 ## Features:
 
-[x] Log to a file each time a file is saved in atom
-[x] Menu item in Atom to view said file
-[ ] Ability to configure logfile location (currently hardcoded to `$HOME/.atom_work_log`)
+- [x] Log to a file each time a file is saved in atom
+- [x] Menu item in Atom to view said file
+- [ ] Ability to configure logfile location (currently hardcoded to `$HOME/.atom_work_log`)
 
 ## Caveats:
 
