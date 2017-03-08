@@ -4,10 +4,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-work-log",
+          "label": "Work Log",
           "submenu": [
             {
-              "label": "Show Work Log",
+              "label": "Show",
               "command": "atom-work-log:show"
             }
           ]
