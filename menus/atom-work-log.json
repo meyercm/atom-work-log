@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-work-log",
+          "submenu": [
+            {
+              "label": "Show Work Log",
+              "command": "atom-work-log:show"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
